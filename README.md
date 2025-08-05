@@ -51,6 +51,6 @@ A full-featured E-Commerce web application built using the MERN Stack (MongoDB, 
 
 ---
 
-## 📁 Folder Structure
+
 
 
