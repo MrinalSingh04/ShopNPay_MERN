@@ -48,7 +48,7 @@ A full-featured E-Commerce web application building using the MERN Stack (MongoD
 | Nodemailer | Email service |
 | JWT        | Authentication token |
 | Bcrypt.js  | Password hashing |
-
+ 
 ---
 
 
