@@ -1,7 +1,7 @@
 # 🛍️InstaBuy_MERN
 
 ---
-
+ 
 # 🛍MERN E-Commerce App with Razorpay & Email Integration
 
 A full-featured E-Commerce web application built using the MERN Stack (MongoDB, Express, React, Node.js) with secure **Razorpay payment gateway**, **JWT-based authentication**, **email notifications**, and **digital product delivery**.
