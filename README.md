@@ -1,4 +1,4 @@
-# 🛍️InstaBuy_MERN
+# 🛍️ShopNPay_MERN
 
 ---
  
