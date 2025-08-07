@@ -13,7 +13,7 @@ A full-featured E-Commerce web application built using the MERN Stack (MongoDB, 
 ### ✅ Core Features
 - 🔐 **User Authentication & Authorization**
   - Sign up / Sign in with hashed passwords 
-  - JWT-based secure routes
+  - JWT-based secure routes 
 - 📧 **Email Integration**
   - Forgot Password Email
   - Order Confirmation Emails
