@@ -9,7 +9,7 @@ A full-featured E-Commerce web application built using the MERN Stack (MongoDB, 
 ---  
    
 ## 🚀 Features 
-    
+     
 ### ✅ Core Features 
 - 🔐 **User Authentication & Authorization**
   - Sign up / Sign in with hashed passwords 
