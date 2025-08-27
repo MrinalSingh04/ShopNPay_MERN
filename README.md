@@ -25,7 +25,7 @@ A full-featured E-Commerce web application built using the MERN Stack (MongoDB, 
   - Remove/update items
   - Checkout & pay
 - 🧾 **Digital Product Management**
-  - Admin panel to add/update/delete products
+  - Admin panel to add/update/delete products 
   - Product image, description, and pricing
 - 🧑‍💼 **Admin Dashboard**
   - Manage products and users
