@@ -3,7 +3,7 @@
 ---
   
 # MERN E-Commerce App with Razorpay & Email Integration  
-
+ 
 A full-featured E-Commerce web application built using the MERN Stack (MongoDB, Express, React, Node.js), featuring secure Razorpay payment integration, JWT-based authentication, email notifications, and much more. 
   
 ---    
